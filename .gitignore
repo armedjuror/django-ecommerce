@@ -1,0 +1,4 @@
+.env
+ecom.sql
+venv/
+.idea/
